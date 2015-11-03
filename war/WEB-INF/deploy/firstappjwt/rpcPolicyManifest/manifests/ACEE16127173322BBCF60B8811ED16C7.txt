@@ -1,0 +1,2 @@
+serviceClass: tolya.begin.testjwt.client.GreetingService
+path: 291FD56BD69A95FDC21E614E1B134D8A.gwt.rpc
